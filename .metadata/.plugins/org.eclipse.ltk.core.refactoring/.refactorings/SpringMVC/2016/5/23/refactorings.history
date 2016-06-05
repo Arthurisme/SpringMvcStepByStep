@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;LoginController.java&apos; to &apos;SpringMVC-Step07/src/main/java/com.in28minutes.todo&apos;&#x0A;- Original project: &apos;SpringMVC-Step07&apos;&#x0A;- Destination element: &apos;SpringMVC-Step07/src/main/java/com.in28minutes.todo&apos;&#x0A;- Original element: &apos;com.in28minutes.login.LoginController.java&apos;" description="Copy compilation unit" destination="/src\/main\/java&lt;com.in28minutes.todo" element1="/src\/main\/java&lt;com.in28minutes.login{LoginController.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1464738698031" units="1" version="1.0"/>
+</session>
