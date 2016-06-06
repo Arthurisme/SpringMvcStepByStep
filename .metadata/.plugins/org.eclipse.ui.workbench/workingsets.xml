@@ -2,7 +2,7 @@
 <workingSetManager>
 <workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1465224683656_1" label="in28Minutes-springmvc" name="in28Minutes-springmvc">
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Step33" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Step35" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/SpringMVC-Fin" type="4"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1461784078862_0" label="Window Working Set" name="Aggregate for window 1461784078861"/>
 </workingSetManager>
