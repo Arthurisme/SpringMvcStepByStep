@@ -1,6 +1,6 @@
 /Users/Arthur/Dropbox/App/Eclipse/Tutorials/SpringMvcStepByStep/Step33/src/main/java/com/in28minutes/todo/service/TodoService.java
-/Users/Arthur/Dropbox/App/Eclipse/Tutorials/SpringMvcStepByStep/Step33/src/main/java/com/in28minutes/login/LogoutController.java
-/Users/Arthur/Dropbox/App/Eclipse/Tutorials/SpringMvcStepByStep/Step33/src/main/java/com/in28minutes/login/WelcomeController.java
+/Users/Arthur/Dropbox/App/Eclipse/Tutorials/SpringMvcStepByStep/Step33/src/main/java/com/in28minutes/common/LogoutController.java
+/Users/Arthur/Dropbox/App/Eclipse/Tutorials/SpringMvcStepByStep/Step33/src/main/java/com/in28minutes/welcome/WelcomeController.java
 /Users/Arthur/Dropbox/App/Eclipse/Tutorials/SpringMvcStepByStep/Step33/src/main/java/com/in28minutes/todo/TodoController.java
 /Users/Arthur/Dropbox/App/Eclipse/Tutorials/SpringMvcStepByStep/Step33/src/main/java/com/in28minutes/model/Todo.java
 /Users/Arthur/Dropbox/App/Eclipse/Tutorials/SpringMvcStepByStep/Step33/src/main/java/com/in28minutes/security/SecurityConfiguration.java

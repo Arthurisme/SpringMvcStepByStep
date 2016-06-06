@@ -12,11 +12,11 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 @EnableWebMvc
 public class ExceptionController {
 
-    private Log logger = LogFactory.getLog(ExceptionController.class);
+	private Log logger = LogFactory.getLog(ExceptionController.class);
 
-    @ExceptionHandler(value = Exception.class)
-    public String handleError(HttpServletRequest req, Exception exception) {
-        logger.error("Request: " + req.getRequestURL() + " raised " + exception);
-        return "error";
-    }
+	@ExceptionHandler(value = Exception.class)
+	public String handleError(HttpServletRequest req, Exception exception) {
+		logger.error("Request: " + req.getRequestURL() + " raised " + exception);
+		return "error";
+	}
 }
