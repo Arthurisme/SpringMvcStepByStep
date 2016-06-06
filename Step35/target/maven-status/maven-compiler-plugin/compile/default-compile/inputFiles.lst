@@ -3,5 +3,6 @@
 /Users/Arthur/Dropbox/App/Eclipse/Tutorials/SpringMvcStepByStep/Step35/src/main/java/com/in28minutes/model/Todo.java
 /Users/Arthur/Dropbox/App/Eclipse/Tutorials/SpringMvcStepByStep/Step35/src/main/java/com/in28minutes/todo/service/TodoService.java
 /Users/Arthur/Dropbox/App/Eclipse/Tutorials/SpringMvcStepByStep/Step35/src/main/java/com/in28minutes/common/ExceptionController.java
+/Users/Arthur/Dropbox/App/Eclipse/Tutorials/SpringMvcStepByStep/Step35/src/main/java/com/in28minutes/todo/rest/TodoRestController.java
 /Users/Arthur/Dropbox/App/Eclipse/Tutorials/SpringMvcStepByStep/Step35/src/main/java/com/in28minutes/common/LogoutController.java
 /Users/Arthur/Dropbox/App/Eclipse/Tutorials/SpringMvcStepByStep/Step35/src/main/java/com/in28minutes/welcome/WelcomeController.java
