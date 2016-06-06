@@ -39,15 +39,10 @@ public class TodoController {
 	    public String showTodosList( ModelMap model ) {
 //		    model.addAttribute("name", name);
 
-		    model.addAttribute("todos", service.retrieveTodos(retrieveLoggedUserName()));
+		    model.addAttribute("todos", service.retrieveTodos("in28Minutes"));
 
 	        return "list-todos";
 	    }
-
-
-	private String retrieveLoggedUserName() {
-		return "in28Minutes";
-	}
 	 
 		
 	 @RequestMapping(value = "/add-todo", method = RequestMethod.GET)
@@ -64,7 +59,7 @@ public class TodoController {
 	            return "todo";
 		 
 		 
-		 service.addTodo(retrieveLoggedUserName(), todo.getDesc(), new Date(), false);
+		 service.addTodo("in28Minutes", todo.getDesc(), new Date(), false);
 	        model.clear();// to prevent request parameter "name" to be passed
 	        
 	       
@@ -96,7 +91,7 @@ public class TodoController {
 	        if (result.hasErrors())
 	            return "todo";
 
-	        todo.setUser(retrieveLoggedUserName()); //TODO:Remove Hardcoding Later
+	        todo.setUser("in28Minutes"); //TODO:Remove Hardcoding Later
 //	        todo.setTargetDate(new Date());
 	        service.updateTodo(todo);
 

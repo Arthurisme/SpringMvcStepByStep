@@ -2123,3 +2123,17 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact javax:javaee-
 2016-06-05 19:12:22,773 [Worker-59] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B tomcat7:run
 2016-06-05 19:24:53,850 [Worker-59] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/Arthur/Dropbox/App/Eclipse/Tutorials/SpringMvcStepByStep/SpringMVC
 2016-06-05 19:24:53,850 [Worker-59] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B tomcat7:run
+2016-06-05 19:55:34,593 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.1.6.RELEASE/spring-aop-4.1.6.RELEASE.jar
+2016-06-05 19:55:34,985 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.1.6.RELEASE/spring-aop-4.1.6.RELEASE.jar
+2016-06-05 19:58:01,727 [Worker-54] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-06-05 19:58:02,002 [Worker-54] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.in28minutes:in28Minutes-first-webapp:0.0.1-SNAPSHOT @ /Users/Arthur/Dropbox/App/Eclipse/Tutorials/SpringMvcStepByStep/SpringMVC/pom.xml.
+2016-06-05 19:58:02,610 [Worker-54] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringMVC/src/main/java
+2016-06-05 19:58:02,610 [Worker-54] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringMVC/src/main/resources
+2016-06-05 19:58:02,610 [Worker-54] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringMVC/src/test/java
+2016-06-05 19:58:02,610 [Worker-54] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringMVC/src/test/resources
+2016-06-05 19:58:02,735 [Worker-54] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringMVC
+2016-06-05 19:58:02,736 [Worker-54] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2016-06-05 19:59:44,483 [Worker-62] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/Arthur/Dropbox/App/Eclipse/Tutorials/SpringMvcStepByStep/SpringMVC
+2016-06-05 19:59:44,483 [Worker-62] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B tomcat7:run
+2016-06-05 20:17:55,606 [Worker-72] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/Arthur/Dropbox/App/Eclipse/Tutorials/SpringMvcStepByStep/SpringMVC
+2016-06-05 20:17:55,606 [Worker-72] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B tomcat7:run
