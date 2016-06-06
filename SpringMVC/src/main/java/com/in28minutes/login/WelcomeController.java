@@ -13,13 +13,13 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.SessionAttributes;
 
-import com.in28minutes.login.LoginService;
+//import com.in28minutes.login.LoginService;
 
 @Controller
 //@SessionAttributes("name")
 public class WelcomeController {
 	
-	@Autowired
+//	@Autowired
 
 //	String returnedPageName;
 

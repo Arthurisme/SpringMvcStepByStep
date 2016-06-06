@@ -1,0 +1,5 @@
+package com.in28minutes.exception;
+
+public class ExceptionController {
+
+}
